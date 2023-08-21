@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/rhahudson/portfolio-website.git/static/css/main.fbc00891.css",
-    "main.js": "/rhahudson/portfolio-website.git/static/js/main.9f34095d.js",
-    "index.html": "/rhahudson/portfolio-website.git/index.html"
+    "main.css": "/rhahudson1/portfolio-website.git/static/css/main.d07a1c37.css",
+    "main.js": "/rhahudson1/portfolio-website.git/static/js/main.7c52fc78.js",
+    "index.html": "/rhahudson1/portfolio-website.git/index.html",
+    "main.d07a1c37.css.map": "/rhahudson1/portfolio-website.git/static/css/main.d07a1c37.css.map",
+    "main.7c52fc78.js.map": "/rhahudson1/portfolio-website.git/static/js/main.7c52fc78.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbc00891.css",
-    "static/js/main.9f34095d.js"
+    "static/css/main.d07a1c37.css",
+    "static/js/main.7c52fc78.js"
   ]
 }
